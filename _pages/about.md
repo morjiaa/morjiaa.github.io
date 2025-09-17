@@ -55,7 +55,7 @@ Applying Python and 3D data processing tools, with exposure to computer vision a
 
 
 
-# 📖 Educations
+# Educations
 - University of Technology Sydney                       2024 - 2026
 Master of Information Technology （Data Analytics）
 - Xi'an Jiao Tong University                                    2010 - 2014
