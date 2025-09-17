@@ -27,6 +27,7 @@ Master of Information Technology （Data Analytics）
 - Xi'an Jiao Tong University                                    2010 - 2014
 Bachelor of Electronic Engineering
 
+<span class='anchor' id='educations'></span>
 # News
 
 ### SEO Intern  
