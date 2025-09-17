@@ -40,3 +40,12 @@ Xi’an, China | July 2020 – June 2024
 ### Chief Operating Officer  
 **Rongqin Technology**  
 Xi’an, China | August 2018 – May 2020  
+
+### General Manager  
+**Mega-info Technology**  
+Beijing, China | August 2015 – August 2018  
+
+### Head of Product Unit  
+**Zhishi Technology**  
+Beijing, China | January 2015 – August 2015  
+
