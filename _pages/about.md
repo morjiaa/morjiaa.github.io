@@ -16,40 +16,48 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
- I'm Shuang Cui
+I'm Shuang Cui
+
+Emerging data and AI professional with nearly a decade of business and tech experience, including leadership roles in Bluetooth hardware, SaaS, e-commerce, and four years as a travel company founder. Currently focused on AI, neuroscience, and robotics research, with experience in EEG-to-Text and 3D environment analysis. Skilled in Python, SQL, and data processing, and pursuing a Master’s in Information Technology at UTS.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Research Experience
 
-# 📝 Publications 
+## Computational Intelligence and Brain-Computer Interface Lab
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://framerusercontent.com/images/VIRLFrvUOrgRUPx9YGF1nbYxHM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Researching EEG-to-Text cross-subject generalization to improve neural decoding across different individuals.
+Designing and training deep learning models, applying signal processing and feature extraction techniques.
+Evaluating model performance and implementing strategies to enhance robustness and scalability in brain-computer interface applications.
+Gained hands-on experience with Python, PyTorch, EEG data preprocessing, and neural signal analysis.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Robotics Institute
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://framerusercontent.com/images/QNz3ieKrxKPKv613UWY5efplVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Conducting research on rule-based analysis of 3D environments, bridging spatial and linguistic representations.
+Developing algorithms to extract semantic and functional information from 3D scenes for AI understanding.
+Applying Python and 3D data processing tools, with exposure to computer vision and robotics frameworks.
+
+
+</div>
+</div>
+
+
+
+
+
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- University of Technology Sydney                       2024 - 2026
+Master of Information Technology （Data Analytics）
+- Xi'an Jiao Tong University                                    2010 - 2014
+Bachelor of Electronic Engineering
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
