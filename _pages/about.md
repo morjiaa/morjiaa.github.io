@@ -35,6 +35,8 @@ Sydney, Australia
 website seo
 — Planned and implemented on-page and off-page SEO strategies to increase organic traffic, improve search rankings, and enhance site visibility. Conducted keyword research, optimized content and metadata, built backlinks, and analyzed performance using tools like Google Analytics and Search Console.
 — Led a complete website rebuild, implementing a modern front-end with Tailwind CSS and Next.js, optimizing database structures, and improving overall site performance and security.
+
+
 CO-FOUNDER
 2020.07 - 2024.06
 Renjinjiezhi International Travel Agency
@@ -43,6 +45,8 @@ website seo
 — Technology: Designed and developed official website using JavaScript, HTML and CSS for international customers.
 — Operations: Defined brand identity and coordinated 30+ international suppliers across 10+ destinations, aligning offerings with seasonal demand and client preferences.
 — Marketing: Delivered 50+ custom itineraries, growing 20,000+ social followers, and achieving 40% customer return rate through content-driven marketing.
+
+
 CHIEF OPERATING OFFICER
 2018.08 - 2020.05
 Rongqin Technology
@@ -52,6 +56,8 @@ website seo
 — Marketing & Growth: Built strategic partnerships with other companies such as Huawei Cloud to drive cloud integration, optimize digital platforms, and execute co-branded marketing campaigns to enhance user generation by 27%.
 — Product: Gathered users' requirements and business needs into technical solutions, coordinating with design/dev teams, prioritising features.
 — Operations: Managed business and operations teams of 15+, driving a 20% performance improvement by implementing clear targets and KPIs.
+
+
 GENERAL MANAGER
 2015.08 - 2018.08
 Mega-info Technology
@@ -60,6 +66,8 @@ website seo
 — Technology: Created and developed interactive marketing, ad management, and data tracking platforms to visualized effect of advertising and improved campaign efficiency by 40%.
 — Marketing and Growth: Delivered viral marketing campaigns (e.g., 2.19M users in a Spring Festival campaign) and directed integrated advertising campaigns for clients such as Tencent Games
 — Marketing and Growth: Operated and scaled official WeChat accounts by over 1M users.
+
+
 HEAD OF PRODUCT UNIT
 2015.01 - 2015.08
 Zhishi Technology
