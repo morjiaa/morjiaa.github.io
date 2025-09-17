@@ -29,28 +29,14 @@ Bachelor of Electronic Engineering
 
 <span class='anchor' id='educations'></span>
 # News
-
 ### SEO Intern  
 **Myloans Services**  
 Sydney, Australia | June 2025 – July 2025  
-*Website SEO*  
-
-- Planned and implemented on-page and off-page SEO strategies to increase organic traffic, improve search rankings, and enhance site visibility.  
-- Conducted keyword research, optimized content and metadata, built backlinks, and analyzed performance using tools like Google Analytics and Search Console.  
-- Led a complete website rebuild, implementing a modern front-end with Tailwind CSS and Next.js, optimizing database structures, and improving overall site performance and security.  
 
 ### Co-Founder  
 **Renjinjiezhi International Travel Agency**  
 Xi’an, China | July 2020 – June 2024  
-*Website SEO*  
-
-- **Technology:** Designed and developed official website using JavaScript, HTML, and CSS for international customers.  
-- **Operations:** Defined brand identity and coordinated 30+ international suppliers across 10+ destinations, aligning offerings with seasonal demand and client preferences.  
-- **Marketing:** Delivered 50+ custom itineraries, growing 20,000+ social followers, and achieving 40% customer return rate through content-driven marketing.  
 
 ### Chief Operating Officer  
 **Rongqin Technology**  
 Xi’an, China | August 2018 – May 2020  
-*Website SEO*  
-
-- **Marketing & Growth:** Led product operations driving 35% user engagement growth and 50% increase in monthly active users through 20+ content and event campaigns
